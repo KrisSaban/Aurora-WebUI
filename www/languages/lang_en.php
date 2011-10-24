@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $webui_language_code='en';
 $webui_actual_language='English';
 
@@ -216,6 +216,8 @@ $webui_menu_item_adminsettings = 'Settings';
 $webui_menu_item_adminmodules = 'Modules';
 $webui_menu_item_adminoptions = 'Options';
 $webui_menu_item_adminsupport = 'Support';
+$webui_menu_item_admingallery = 'GalleryAdmin';
+
 
 //
 // Admin Home Page

@@ -11,6 +11,9 @@ Please remember to backup your database regularly.
 
 Config.php (basic must settings)
 
+also edit upload.php and add in database information same as in config.php
+also run wi_pagemanager.sql and wi_sitemanagement.sql after you have run wi_webui.sql
+
 ##################### System #########################
 define("SYSNAME","This_usually_is_what_the_site_is_called");
 define("SYSURL","http://your_aurora_server_ip_or_dns_address");
